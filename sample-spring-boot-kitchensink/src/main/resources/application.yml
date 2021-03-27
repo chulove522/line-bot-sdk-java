@@ -17,8 +17,8 @@ This is a template for the configuration file.
 Make a copy called `application.yml` and change the values below.
 
 line.bot:
-  channel-token: 'Put Your Channel Token Here.'
-  channel-secret: 'Put Your Channel Secret Here.'
+  channel-token:1655803349
+  channel-secret:9e46d4a3d95eedf10c9d393e5175493e
   handler.path: /callback
 
 # To remove Client wire logs. Please comment out following lines.
